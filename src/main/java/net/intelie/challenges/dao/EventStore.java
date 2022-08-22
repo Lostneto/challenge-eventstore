@@ -1,4 +1,6 @@
-package net.intelie.challenges;
+package net.intelie.challenges.dao;
+
+import net.intelie.challenges.entities.Event;
 
 /**
  * An abstraction of an event store.
